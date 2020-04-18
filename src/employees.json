@@ -1,0 +1,50 @@
+[
+    {
+       "id": 1,
+       "firstName": "Michael",
+       "lastName": "Scott",
+       "position": "Manager",
+       "salesman": 0,
+       "management": 1
+    },
+    {
+       "id": 2,
+       "firstName": "Jim",
+       "lastName": "Halpert",
+       "position": "Head Salesman",
+       "salesman": 1,
+       "management": 0
+    },
+    {
+       "id": 3,
+       "firstName": "Dwight",
+       "lastName": "Schrute",
+       "position": "Assistant to the Manager",
+       "salesman": 1,
+       "management": 0
+    },
+    {
+       "id": 4,
+       "firstName": "Pam",
+       "lastName": "Halpert",
+       "position": "Office Manager",
+       "salesman": 1,
+       "management": 0
+    },
+    {
+       "id": 5,
+       "firstName": "Stanley",
+       "lastName": "Hudson",
+       "position": "Salesman",
+       "salesman": 1,
+       "management": 0
+    },
+    {
+       "id": 6,
+       "firstName": "Phyllis",
+       "lastName": "Vance",
+       "position": "Salesman",
+       "salesman": 1,
+       "management": 0
+    }
+   ]
